@@ -1,0 +1,6 @@
+{
+  "name": "FloodShield AI",
+  "description": "AI-powered real-time flood prediction, impact assessment, early-warning, and disaster-response command center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
